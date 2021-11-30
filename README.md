@@ -7,3 +7,5 @@ En cada uno de los scripts se encuentra:
 - **modelo transfer learning ImageDataGenerator**: modelo de transfer learning con VGG16 cargado con los pesos de imagenet con data augmentation a partir ImageDataGenerator que devuelve randomly transformed data.
 
 - **modelo transfer learning**: modelo de transfer learning con VGG16 cargado con los pesos de imagenet sin data augmentation.
+
+- **Modelo transfer learning VGG16-final**: modelo de transfer learning con VGG16 (de keras) cargado con los pesos de imagenet con data augmentation.
